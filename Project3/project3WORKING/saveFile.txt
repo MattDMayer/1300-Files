@@ -1,0 +1,8 @@
+Name:
+Matt
+Creatures:
+Creeeeeeeature,grass,52,Poison Ivy,15,grass,5,PETA,15,fire,10,Water Gun,10,water,5,Meowing-Mid-Lecture,25,water,10
+Items:
+Health Potion,+25 HP,25
+Money:
+15
